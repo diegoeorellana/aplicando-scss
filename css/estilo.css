@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+ @import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+.carousel-item{
+   
+    
+}
+.imgslider {
+max-height: 70vh;
+}
+footer { 
+    background-color: black;
+    text-align: center;
+    display: block;
+    font-size: x-large;
+    
+    ;
+}
+footer p {
+
+}
+section img {
+    max-height: 90vh;
+    max-width: 90vh;
+}
+   
